@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\detalleproyectoes\\detallesporproyecto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\detalleproyectoes\\detallesporproyecto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\controllers\\detalleproyectoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:controllers\\detalleproyectoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\detalleproyectoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\detalleproyectoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\proyectoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\proyectoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\detalleproyectoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\detalleproyectoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\models\\detalleproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:models\\detalleproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\proyectoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\proyectoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\controllers\\proyectoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:controllers\\proyectoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\models\\dbproyectoredescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:models\\dbproyectoredescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\models\\usuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:models\\usuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\proyectoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\proyectoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\login\\ingresar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\login\\ingresar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\proyectoes\\proyectosporusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\proyectoes\\proyectosporusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\proyectoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\proyectoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\proyectoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\proyectoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleProyectoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\DetalleProyectoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetalleProyectoesController.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\DetalleProyectoesController.cs",
+              "RelativeToolTip": "Controllers\\DetalleProyectoesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:24:02.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProyectoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\ProyectoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProyectoesController.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\ProyectoesController.cs",
+              "RelativeToolTip": "Controllers\\ProyectoesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:12:30.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:02:53.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:14:34.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\Proyecto.cs",
+              "RelativeToolTip": "Models\\Proyecto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:08:42.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetallesPorProyecto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\DetalleProyectoes\\DetallesPorProyecto.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetalleProyectoes\\DetallesPorProyecto.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\DetalleProyectoes\\DetallesPorProyecto.cshtml",
+              "RelativeToolTip": "Views\\DetalleProyectoes\\DetallesPorProyecto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T04:31:57.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\DetalleProyecto.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleProyecto.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\DetalleProyecto.cs",
+              "RelativeToolTip": "Models\\DetalleProyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:47:38.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\DetalleProyectoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetalleProyectoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\DetalleProyectoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\DetalleProyectoes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T04:48:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\DetalleProyectoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetalleProyectoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\DetalleProyectoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\DetalleProyectoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T04:35:58.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:19:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:58:46.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\UsuarioLogin.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioLogin.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\UsuarioLogin.cs",
+              "RelativeToolTip": "Models\\UsuarioLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:56:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbProyectoRedesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\DbProyectoRedesContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbProyectoRedesContext.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\DbProyectoRedesContext.cs",
+              "RelativeToolTip": "Models\\DbProyectoRedesContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:08:17.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:49:43.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProyectosPorUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\ProyectosPorUsuario.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\ProyectosPorUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\ProyectosPorUsuario.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\ProyectosPorUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:54:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:41:12.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:18:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:20:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T04:19:16.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ingresar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Login\\Ingresar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Ingresar.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Login\\Ingresar.cshtml",
+              "RelativeToolTip": "Views\\Login\\Ingresar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T03:11:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T03:16:23.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-26T04:13:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:17:35.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:15:57.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
