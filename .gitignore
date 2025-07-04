@@ -57,6 +57,3 @@ dist/
 # Docker files (if present)
 **/Dockerfile
 **/docker-compose*
-
-# Others
-wwwroot/lib/
